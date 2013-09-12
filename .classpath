@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/jersey-client-1.17.jar"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/jersey-core-1.17.jar"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/jersey-server-1.17.jar"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/jersey-servlet-1.17.jar"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/servlet-api-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/spring-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/wOrk/JARS/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
